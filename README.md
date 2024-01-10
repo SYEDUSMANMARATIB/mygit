@@ -133,5 +133,4 @@ Resize images and convert them to grayscale using OpenCV and PyTorch. Learn imag
 ### PyTorch and Fouriers
 Explore the use of PyTorch for Fourier transformations. Understand how Fourier transforms can be applied in image processing.
 
-### Py
 
